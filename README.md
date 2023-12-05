@@ -51,7 +51,7 @@ You can install these dependencies using the provided `requirements.txt` file.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sales-prediction-model.git
+   https://github.com/Framework12/Cognizant_ML_Project.git
 
 ## Navigate to the project directory:
 cd sales-prediction-model
